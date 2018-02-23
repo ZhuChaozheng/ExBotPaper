@@ -7,5 +7,5 @@ Year: 2017, Volume: PP, Issue: 99
  
  2. NanoMap: Fast, Uncertainty-Aware Proximity Queries with Lazy Search over Local 3D Data
  
- 视频：http://news.mit.edu/2018/mit-csail-programming-drones-fly-face-uncertainty-0212
+ 视频：http://news.mit.edu/2018/mit-csail-programming-drones-fly-face-uncertainty-0212  
  代码：https://github.com/peteflorence/nanomap_ros
